@@ -8,14 +8,14 @@ This is an e-commerce website built with Django (Python) and PayPal is added as 
 3. Manage Users (Update, Filter and Delete)
 4. Manage Orders (View and Process)
 
-### B. Non-Registered Users Can
+### B. Non-Registered Users Can:
 1. View Products (Can filter based on category)
 2. Explore Product Details and Related Products
 3. contact administrators
 4. view about
 
 
-### C. Registered Users Can Can
+### C. Registered Users Can:
 1. Perform All of Non-Registered Users work
 2. Add to Cart
 3. Pay with PayPal or Debit/Credit Card and Order
@@ -84,7 +84,7 @@ $  source venv/bin/activate
 
 Then, Enter the project
 ```
-$  cd django-jewelry-shop
+$  cd Responsive-django-shop
 ```
 
 **4. Install Requirements from 'requirements.txt'**
